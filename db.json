@@ -1,4 +1,7 @@
 {
-	"quote" : "Today is best day to start a new thing.",
-	"author" : "Unknown"
+
+"myquote":	{
+		"quote" : "Today is best day to start a new thing.",
+		"author" : "Unknown"
+	}
 }
