@@ -1,11 +1,9 @@
-{
-
-	"myquote":[{
+[{
 		"quote" : "Today is best day to start a new thing.",
 		"author" : "Unknown"
-	},
-	{
-		"quote" : "It's a goof day to start to smart something new",
+},
+{
+		"quote" : "It's is best day to start a new thing.",
 		"author" : "Unknown"
-	}]
-}
+	}
+]
